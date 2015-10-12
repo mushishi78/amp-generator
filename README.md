@@ -1,7 +1,7 @@
 Amp Generator
 =============
 
-A static-site generator for [Accelerated Mobile Pages](https://github.com/ampproject/amphtml) powered by Webpack.
+A static-site generator for [Accelerated Mobile Pages](https://github.com/ampproject/amphtml) powered by Webpack. It use es6 [template strings](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/template_strings) for templates and [PurifyCSS](https://github.com/purifycss/purifycss) to only include used CSS into the page head.
 
 Usage
 -----
