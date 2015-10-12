@@ -1,0 +1,33 @@
+header {
+  padding: 10px 0;
+  background-color: #FF7E7E;
+  box-shadow: 0 0 1px 1px #983333;
+}
+
+.logo {
+  color: #B52525;
+}
+
+.logo:hover {
+  color: #D84646;
+}
+
+nav {
+  padding-top: 5px;
+}
+
+nav a {
+  padding: 0 1%;
+}
+
+main {
+  padding: 0 5%;
+}
+
+article {
+  margin: 15px 5%;
+}
+
+.posts-item {
+  padding: 15px 2%;
+}
